@@ -53,3 +53,7 @@ This is a single-page CV for Ayman Salem, a Junior Frontend Developer.
 ## Across the Internet
 
 Add your LinkedIn, GitHub profile links.
+
+## Project URL
+
+[Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
